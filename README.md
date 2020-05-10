@@ -1,5 +1,5 @@
 # [WIP] Unity VR Horror Game Experiment
- A test/experiment to create a convincing horror game in VR using Unity. Inspired by Valem's "making a horror game in VR" tutorial. 
+ A test/experiment to create a convincing horror game in VR using Unity. Inspired by Valem's "making a horror game in VR" tutorial. The project is currently using the Oculus Unity Toolkit.
 
 ![Alt Text](https://media.giphy.com/media/eJ9OZulDk7Y2agj5fz/giphy.gif)
 

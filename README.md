@@ -19,6 +19,6 @@ To repair your car, you simply need to bring the spare tire you found and put it
 
 ![Alt Text](https://media.giphy.com/media/h3zX81uO0tcbKqJ9mE/giphy.gif)
 
-Since VR games can be quite expensive to run for this project, I also spent time learning optimization techniques to make my game run better. I am currently using baked lighting in my scene as well as occlusion culling that only renders what the player sees which helps the game with performance and should help keep framerates consistent if the game is ever scaled up and expanded on.
+Since VR games can be quite expensive to run, for this project, I also spent time learning optimization techniques to make my game run better. I am currently using baked lighting in my scene as well as occlusion culling that only renders what the player sees which helps the game with performance and should help keep framerates consistent if the game is ever scaled up and expanded on.
 
 ![Alt Text](https://media.giphy.com/media/lpzKGnnGjH7bqCxAvg/giphy.gif)
